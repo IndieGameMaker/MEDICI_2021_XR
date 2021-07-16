@@ -6,3 +6,5 @@
 
 ### ML-Agents 과정
 - [프로젝트 리소스](https://github.com/IndieGameMaker/Mummy2021_XR)
+- [MummyRay](https://github.com/IndieGameMaker/MummyRay2021)
+
